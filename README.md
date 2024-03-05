@@ -1,3 +1,11 @@
+<style>
+/* write your CSS rules in here */
+body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    background: linear-gradient(to bottom, #e73ea2 0%, #f8c169 105%);
+ </style>
 ### Hi there! 👋 I'm Anastasios
 Welcome to my GitHub profile! I'm a passionate IT professional focusing on emerging technologies, cyber security, and expandable systems. With a strong foundation in troubleshooting and resolving technical issues, I bring a proactive and tech-savvy approach to every project I undertake.
 
