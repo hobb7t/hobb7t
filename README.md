@@ -1,3 +1,8 @@
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hobb7t&theme=radical&mode=weekly&card_width=600)](https://git.io/streak-stats)
+ 
+
+
 ### Hi there! 👋 I'm Anastasios
 Welcome to my GitHub profile! I'm a passionate IT professional focusing on emerging technologies, cyber security, and expandable systems. With a strong foundation in troubleshooting and resolving technical issues, I bring a proactive and tech-savvy approach to every project I undertake.
 
