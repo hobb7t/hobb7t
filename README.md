@@ -13,6 +13,4 @@ Welcome to my GitHub profile! I'm a passionate IT professional focusing on emerg
 <li>📚 A continuous learner who's always eager to explore new technologies and expand my skill set.</li> <br>
 <li>💡 A creative thinker who enjoys finding innovative solutions to technical challenges.</li> <br>
 Get in Touch <br>
-I'm excited to collaborate on projects, share knowledge, and connect with like-minded individuals. Feel free to reach out to me for collaboration opportunities or just to say hello! <br>
- <br></ul>
 Let's build something awesome together! 🚀
